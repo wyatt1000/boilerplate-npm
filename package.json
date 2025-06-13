@@ -1,3 +1,6 @@
 {
-"author": "wyatt",
+"name": "fcc-learn-npm",
+  "version": "1.0.0",
+  "description": "A project that does something",
+  "author": "wyatt",
 }
